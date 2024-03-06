@@ -9,3 +9,4 @@ step to perform test
 6. create an apex class to callout given api
 7. create a lwc component for user UI
 8. add the lwc component to home page
+9. insert the record in custom created object 
